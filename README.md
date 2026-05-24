@@ -37,4 +37,4 @@ An AI-powered system for real-time detection and classification of wildlife spec
 
 ```bash
 git clone https://github.com/yourusername/wildlife-detection.git
-cd wildlife-detection
+
