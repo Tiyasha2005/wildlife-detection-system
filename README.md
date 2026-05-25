@@ -31,8 +31,6 @@ An AI-powered system for real-time detection and classification of wildlife spec
 - **MQTT / Twilio** – alerts
 - **Docker** (optional for deployment)
 
-## 📦 Installation
-
 ### 1. Clone the repository
 
 ```bash
